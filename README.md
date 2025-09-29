@@ -17,8 +17,8 @@ Today, most integration windows are vendor-locked or require sending sensitive d
 - **Deployment:** Per-service Dockerfiles, orchestrated via docker-compose.
 
 ### Access
-The full implementation is hosted in a **private SFU GitHub repository**.  
-- I can provide a **walkthrough or private demo** on request.
+The full implementation is hosted in a **private GitHub repository**.  
+- I can provide a **demo** on request.
 - Please feel free to reach out if you'd like to discuss the details or see the project in action.  
 
 ### Contact
